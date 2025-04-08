@@ -1,0 +1,26 @@
+{
+    "sqltools.connections": [
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "TiDB",
+            "name": "Korsob",
+            "connectString": "mysql://23TTkrXb3JgcQ9M.root:<RT8OcZgIsnptXkVPRT8OcZgIsnptXkVP>@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/test?sslaccept=strict"
+        },
+        {
+            "mysqlOptions": {
+                "authProtocol": "default",
+                "enableSsl": "Disabled"
+            },
+            "previewLimit": 50,
+            "server": "localhost",
+            "driver": "TiDB",
+            "name": "Korsob",
+            "connectString": "mysql://3iX5sc5w6y7XhZa.root:<PASSWORD>@gateway01.ap-southeast-1.prod.aws.tidbcloud.com:4000/cedt"
+        }
+    ]
+}
